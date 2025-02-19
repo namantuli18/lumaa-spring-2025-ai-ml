@@ -21,12 +21,14 @@
    pip install -r requirements.txt
    ```
 4. **Follow along the steps in the notebook to visualize data, train, and save the model for inference**
+   [Notebook](https://github.com/namantuli18/lumaa-spring-2025-ai-ml/blob/main/train_model.ipynb)
+
 ---
 
 ## Model Inference
 
 1. **Using python notebook**  
-   - Just run the cell that calls the function recommend_movies in the notebook
+   - Just run the cell that calls the function recommend_movies in the [notebook](https://github.com/namantuli18/lumaa-spring-2025-ai-ml/blob/main/train_model.ipynb)
    - Sample request and response
      ```python
      
@@ -63,9 +65,12 @@
          3. Exposed (Similarity: 0.1083)
      ``` 
 
-3. **Use the app deployed on streamlit**  
+3. **Use the app deployed on streamlit**
+   ![Website](https://github.com/namantuli18/lumaa-spring-2025-ai-ml/blob/main/imgs/img.jpg)
+
    - Run the script below to deploy the model on a streamlit server:
      ```bash
      python -m streamlit run host.py
      ```
    - Enter the movie description in a prompt and get the list of recommendations!
+   
