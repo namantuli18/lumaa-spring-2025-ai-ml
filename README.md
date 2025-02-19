@@ -25,6 +25,8 @@
 
 ---
 
+### [Video Demo](https://drive.google.com/file/d/1fwsEQ6SePHa9b7eEmvKa_R3X0mQkV9YM/view?usp=sharing)
+
 ## Model Inference
 
 1. **Using python notebook**  
